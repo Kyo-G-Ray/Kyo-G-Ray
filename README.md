@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyo-G-Ray&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyo-G-Ray&layout=compact&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kyo-G-Ray&theme=onedark&show_icons=true" />
+</p>
