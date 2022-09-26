@@ -1,6 +1,6 @@
-### Hi there , I'm Kyogo.
+## Hi there , I'm Kyogo.
 
-# See my development history.
+### See my development history.
 
 
 
